@@ -1,4 +1,4 @@
-var person = require("./constructors/index");
+var person = require("./constructors/constructor");
 
 var p1 = new person.Person("Dheeraj","Reddy");
 

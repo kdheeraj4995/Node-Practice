@@ -9,5 +9,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "events": "^1.1.1",
+    "express": "^4.16.2"
+  }
 }
